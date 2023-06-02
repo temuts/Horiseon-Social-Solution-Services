@@ -1,4 +1,4 @@
-# Horiseon-Social-Solution-Services
+# Week 1 Mini Project
 
 ## Description
 
